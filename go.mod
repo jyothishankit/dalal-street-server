@@ -1,4 +1,4 @@
-module github.com/delta/dalal-street-server
+module github.com/jyothishankit/dalal-street-server
 
 go 1.13
 
